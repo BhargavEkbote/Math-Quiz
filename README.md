@@ -1,3 +1,3 @@
 # Math-Quiz
 
-Certain components from this will be merged into LetsChat in the future.
+This is where the login page was extracted from for the original version of LetsChat.
